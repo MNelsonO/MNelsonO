@@ -4,7 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-I'm a front-end software developer passionate about building high-performance, scalable, and user-friendly web applications. My expertise lies in modern JavaScript frameworks and libraries, with a strong focus on: 🚀 Tech Stack & Skills: JavaScript (ES6+) – Writing clean, efficient, and maintainable code. React.js – Component-based architecture, state management (Redux/Zustand), hooks, and performance optimization. Next.js – SSR, SSG, ISR, and API routes for fast and SEO-friendly applications. Node.js – Back-end integration, RESTful APIs, authentication, and real-time features. TypeScript – Strong typing for improved code quality and maintainability. Tailwind CSS / Styled Components – Responsive and modern UI design. Testing – Jest, React Testing Library, Cypress for robust applications. Version Control & CI/CD – Git, GitHub Actions, and automated deployments. 🔧 What I Build: Scalable and maintainable front-end applications. Server-rendered and static sites with optimized performance. Seamless integrations with back-end APIs. Modern, responsive, and accessible UI/UX experiences.
+I'm a front-end software developer passionate about building high-performance, scalable, and user-friendly web applications. My expertise lies in modern JavaScript frameworks and libraries, with a strong focus on:
+🚀Tech Stack & Skills: JavaScript (ES6+) – Writing clean, efficient, and maintainable code.
+React.js – Component-based architecture, state management (Redux/Zustand), hooks, and performance optimization.
+Next.js – SSR, SSG, ISR, and API routes for fast and SEO-friendly applications. 
+Node.js – Back-end integration, RESTful APIs, authentication, and real-time features. 
+TypeScript – Strong typing for improved code quality and maintainability. Tailwind CSS / Styled Components – Responsive and modern UI design. 
+Testing – Jest, React Testing Library, Cypress for robust applications. Version Control & CI/CD – Git, GitHub Actions, and automated deployments. 
+🔧 What I Build: Scalable and maintainable front-end applications. Server-rendered and static sites with optimized performance. Seamless integrations with back-end APIs. Modern, responsive, and accessible UI/UX experiences.
 
 * 🌍  I'm based in Nairobi-Kenya
 * ✉️  You can contact me at [nelson@kemetech.com](mailto:nelson@kemetech.com)
